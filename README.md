@@ -32,6 +32,6 @@
 
 
 [website]: https://afnan-danish.github.io
-[codepen]: codepen.io/afnan-danish
+[codepen]: https://codepen.io/afnan-danish
 [instagram]: https://www.instagram.com/afnan.danish_
 [linkedin]: https://www.linkedin.com/in/afnan-danish/
